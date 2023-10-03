@@ -30,7 +30,8 @@ const cards = [
     <div
       v-for="(item, index) in cards"
       :key="index"
-      :class="{ hidden: index > 1 }"
+      :class="{ 'md:hidden': index > 1 }"
+      class="lg:block"
     >
       <div>
         <img :src="item.src" alt="Pizza" class="relative max-w-[100%]" />
