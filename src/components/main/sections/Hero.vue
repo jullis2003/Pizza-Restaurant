@@ -17,7 +17,7 @@
 
 <style scoped>
 section {
-  background: url("../src/assets/imgs/hero.png") center top / cover no-repeat;
+  background: url("\src\assets\imgs\hero.png") center top / cover no-repeat;
 }
 
 section > div {
