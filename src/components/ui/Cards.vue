@@ -36,7 +36,7 @@ const cards = [
       <div>
         <img :src="item.src" alt="Pizza" class="relative max-w-[100%]" />
         <img
-          src="/../../../../assets/icons/favorites.png"
+          src="\src\assets\icons\favorites.png"
           class="absolute top-[5%] right-[5%]"
         />
       </div>
