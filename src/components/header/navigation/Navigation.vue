@@ -5,7 +5,7 @@ import Menu from "./Menu&Icons.vue";
 <template>
   <div class="flex justify-between items-center pt-5">
     <a href="">
-      <img src="src\assets\imgs\Logo.png" alt="Pizza Like" />
+      <img src="\src\assets\imgs\Logo.png" alt="Pizza Like" />
     </a>
     <Menu />
   </div>

@@ -21,7 +21,7 @@ const menuItems = ref([
       </ul>
     </nav>
     <button class="md:hidden">
-      <img src="src\assets\icons\Menu.png" alt="Menu" />
+      <img src="\src\assets\icons\Menu.png" alt="Menu" />
     </button>
     <Icons />
   </div>
